@@ -5,7 +5,11 @@ import java.io.IOException;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
+<<<<<<< HEAD
 //bbbb
+=======
+//aaaa
+>>>>>>> branch 'master' of https://github.com/xingwei2000/eclipsegitremote.git
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;
 import org.mybatis.generator.config.xml.ConfigurationParser;
