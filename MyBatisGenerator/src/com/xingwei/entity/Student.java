@@ -1,5 +1,5 @@
 package com.xingwei.entity;
-
+//123
 public class Student {
     private Integer stuno;
 
